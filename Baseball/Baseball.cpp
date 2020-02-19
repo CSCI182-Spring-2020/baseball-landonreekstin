@@ -5,11 +5,10 @@ Baseball.cpp
 Landon Reekstin
 v1.0 2/18/2020 */
 
-
-#include <iostream>
 #include <iomanip>
 #include <fstream>
 #include "Player.h"
+#include <iostream>
 
 #define MAX_PLAYER_COUNT 15
 
